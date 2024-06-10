@@ -19,7 +19,10 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 ## Instructores 👾
 
 - [Dra. Joselyn Chávez](https://rladiesmx.netlify.app/author/joselyn-chavez/) - Rladies Cuernavaca, Posdoctoral Icahn School of Medicine en Mount Sinai
-- 
+- [Dra. Haydeé Peruyero](https://haydeeperuyero.github.io/) - Rladies Morelia, Posdoctoral Centro de Ciencias Matematicas (CCM)
+- Sofia Zorrilla - Rladies Morelia, estudiante de doctorado
+- Maria Jose Palma Martinez - Rladies Morelia, estudiante de doctorado
+- Dra. Aline Pingarroni - Rladies Morelia, PI
 
 ## Contenido 📌
 
@@ -38,4 +41,11 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 - Viernes 12. (29/nov/2024)
 - Viernes 13. (6/dic/2024)
 
+[Calendario UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf)
 
+## Próximos eventos en estos meses
+
+- Creacion de paginas web en R - Dra. Haydeé Peruyero
+- Introducción al paquete data.table en R - Sofia Zorrilla
+- Analisis de variantes genetica con data.table en R- Maria Jose Palma Martinez
+- Crear tu CV en R - Aline Pingarroni
