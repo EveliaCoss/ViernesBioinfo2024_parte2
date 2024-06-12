@@ -36,8 +36,8 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 - Viernes 8. (25/oct/2024)
 - Viernes Nov 2 - no hay clase
 - Viernes 9. (8/nov/2024)
-- Viernes 10. (15/nov/2024)
-- Viernes 11. (22/nov/2024)
+- Viernes 10. Creacion de paginas web en R, parte 1 (15/nov/2024) - Haydeé Peruyero
+- Viernes 11. Creacion de paginas web en R, parte 2 (22/nov/2024) - Haydeé Peruyero
 - Viernes 12. (29/nov/2024)
 - Viernes 13. (6/dic/2024)
 
@@ -45,7 +45,7 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 
 ## Próximos eventos en estos meses
 
-- Creacion de paginas web en R - Dra. Haydeé Peruyero
+- 
 - Introducción al paquete data.table en R - Sofia Zorrilla
 - Analisis de variantes genetica con data.table en R- Maria Jose Palma Martinez
 - Crear tu CV en R - Aline Pingarroni
