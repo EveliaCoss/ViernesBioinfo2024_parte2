@@ -23,6 +23,7 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 - Sofia Zorrilla - Rladies Morelia, estudiante de doctorado
 - Maria Jose Palma Martinez - Rladies Morelia, estudiante de doctorado
 - Dra. Aline Pingarroni - Rladies Morelia, PI
+- MsC. Ana Laura Hernadez - Estudiante de doctorado de Ciencias Biomedicas, LIIGH-UNAM
 
 ## Contenido 📌
 
@@ -35,9 +36,9 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 - Viernes 7. (18/oct/2024)
 - Viernes 8. (25/oct/2024)
 - Viernes Nov 2 - no hay clase
-- Viernes 9. (8/nov/2024)
-- Viernes 10. Creacion de paginas web en R, parte 1 (15/nov/2024) - Haydeé Peruyero
-- Viernes 11. Creacion de paginas web en R, parte 2 (22/nov/2024) - Haydeé Peruyero
+- Viernes 9. Creación de mapas en R (8/nov/2024) - Ana Laura Hernadez
+- Viernes 10. Creación de paginas web en R, parte 1 (15/nov/2024) - Haydeé Peruyero
+- Viernes 11. Creación de paginas web en R, parte 2 (22/nov/2024) - Haydeé Peruyero
 - Viernes 12. (29/nov/2024)
 - Viernes 13. (6/dic/2024)
 
