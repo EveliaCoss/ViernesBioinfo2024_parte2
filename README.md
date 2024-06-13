@@ -20,7 +20,7 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 
 - [Dra. Joselyn Chávez](https://rladiesmx.netlify.app/author/joselyn-chavez/) - Rladies Cuernavaca, Posdoctoral Icahn School of Medicine en Mount Sinai
 - [Dra. Haydeé Peruyero](https://haydeeperuyero.github.io/) - Rladies Morelia, Posdoctoral Centro de Ciencias Matematicas (CCM)
-- Sofia Zorrilla - Rladies Morelia, estudiante de doctorado
+- Sofia Zorrilla - Rladies Morelia, estudiante de maestria
 - Maria Jose Palma Martinez - Rladies Morelia, estudiante de doctorado
 - Dra. Aline Pingarroni - Rladies Morelia, PI
 - MsC. Ana Laura Hernadez - Estudiante de doctorado de Ciencias Biomedicas, LIIGH-UNAM
@@ -28,10 +28,10 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 ## Contenido 📌
 
 - Viernes 1. Creación de paquetes en R (6/sep/2024) - Joselyn Chávez
-- Viernes 2. (13/sep/2024)
-- Viernes 3. (20/sep/2024)
-- Viernes 4. (27/sep/2024)
-- Viernes 5. (4/oct/2024)
+- Viernes 2. Introducción al paquete data.table en R, parte 1 (13/sep/2024) - Sofia Zorrilla
+- Viernes 3. Introducción al paquete data.table en R, parte 2 (20/sep/2024) - Sofia Zorrilla
+- Viernes 4. Analisis de variantes genetica con data.table en R, parte 1 (27/sep/2024) - Maria Jose Palma Martinez (Cambio de horario)
+- Viernes 5. Analisis de variantes genetica con data.table en R, parte 2 (4/oct/2024) - Maria Jose Palma Martinez (Cambio de horario)
 - Viernes 6. (11/oct/2024)
 - Viernes 7. (18/oct/2024)
 - Viernes 8. (25/oct/2024)
@@ -46,6 +46,4 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 
 ## Próximos eventos en estos meses
 
-- Introducción al paquete data.table en R - Sofia Zorrilla (2 clases)
-- Analisis de variantes genetica con data.table en R- Maria Jose Palma Martinez (2 clases)
 - Crear tu CV en R - Aline Pingarroni (1 clase)
