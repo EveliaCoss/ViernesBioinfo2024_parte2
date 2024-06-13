@@ -46,7 +46,6 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 
 ## Próximos eventos en estos meses
 
-- 
-- Introducción al paquete data.table en R - Sofia Zorrilla
-- Analisis de variantes genetica con data.table en R- Maria Jose Palma Martinez
-- Crear tu CV en R - Aline Pingarroni
+- Introducción al paquete data.table en R - Sofia Zorrilla (2 clases)
+- Analisis de variantes genetica con data.table en R- Maria Jose Palma Martinez (2 clases)
+- Crear tu CV en R - Aline Pingarroni (1 clase)
