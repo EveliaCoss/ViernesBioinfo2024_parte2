@@ -27,14 +27,16 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6), el horario puede variar unos dias de
 
 ## Contenido 📌
 
+Clases: viernes de 11:30 am a 1:30 pm CDMX 
+
 - Viernes 1. Creación de paquetes en R (6/sep/2024) - Joselyn Chávez
 - Viernes 2. Introducción al paquete data.table en R, parte 1 (13/sep/2024) - Sofia Zorrilla
 - Viernes 3. Introducción al paquete data.table en R, parte 2 (20/sep/2024) - Sofia Zorrilla
-- Viernes 4. Analisis de variantes genetica con data.table en R, parte 1 (27/sep/2024) - Maria Jose Palma Martinez (Cambio de horario)
-- Viernes 5. Analisis de variantes genetica con data.table en R, parte 2 (4/oct/2024) - Maria Jose Palma Martinez (Cambio de horario)
+- Viernes 4. Analisis de variantes genetica con data.table en R, parte 1 (27/sep/2024) - Maria Jose Palma Martinez (9- 11 am)
+- Viernes 5. Analisis de variantes genetica con data.table en R, parte 2 (4/oct/2024) - Maria Jose Palma Martinez (9- 11 am)
 - Viernes 6. (11/oct/2024)
 - Viernes 7. (18/oct/2024)
-- Viernes 8. (25/oct/2024)
+- Viernes 8. Nexflow II (25/oct/2024) - Judith Ballesteros 
 - Viernes Nov 2 - no hay clase
 - Viernes 9. Creación de mapas en R (8/nov/2024) - Ana Laura Hernadez
 - Viernes 10. Creación de paginas web en R, parte 1 (15/nov/2024) - Haydeé Peruyero
