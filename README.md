@@ -39,9 +39,9 @@ Clases: viernes de 11:30 am a 1:30 pm CDMX
 - Viernes 8. Nexflow II (25/oct/2024) - Judith Ballesteros 
 - Viernes Nov 2 - no hay clase
 - Viernes 9. Creación de mapas en R (8/nov/2024) - Ana Laura Hernadez
-- Viernes 10. Creación de paginas web en R, parte 1 (15/nov/2024) - Haydeé Peruyero
-- Viernes 11. Creación de paginas web en R, parte 2 (22/nov/2024) - Haydeé Peruyero
-- Viernes 12. (29/nov/2024)
+- Viernes 10. (15/nov/2024)
+- Viernes 11. Creación de paginas web en R, parte 1 (22/nov/2024) - Haydeé Peruyero
+- Viernes 12. Creación de paginas web en R, parte 2 (29/nov/2024) - Haydeé Peruyero
 - Viernes 13. (6/dic/2024)
 
 [Calendario UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf)
