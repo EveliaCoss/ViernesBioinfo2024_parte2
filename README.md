@@ -42,6 +42,7 @@ Clases: viernes de 11:30 am a 1:30 pm CDMX
 - Viernes 10. (15/nov/2024)
 - Viernes 11. Creación de paginas web en R, parte 1 (22/nov/2024) - Haydeé Peruyero
 - Viernes 12. Creación de paginas web en R, parte 2 (29/nov/2024) - Haydeé Peruyero
+- Clase extra: jueves 5 dic - Crea tu CV - Aline (11:30-1:30)
 - Viernes 13. (6/dic/2024)
 
 [Calendario UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf)
