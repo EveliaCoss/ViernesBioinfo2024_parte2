@@ -47,6 +47,3 @@ Clases: viernes de 11:30 am a 1:30 pm CDMX
 
 [Calendario UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf)
 
-## Próximos eventos en estos meses
-
-- Crear tu CV en R - Aline Pingarroni (1 clase)
