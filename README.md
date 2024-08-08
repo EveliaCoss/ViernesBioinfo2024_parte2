@@ -26,7 +26,7 @@ Viernes de 11:30 am a 1:30 pm CDMX (GMT-6).
 
 Los cursos se imparten cada viernes, se les pide que se inscriban máximo el JUEVES A LAS 6 PM. Solicitudes recibidas posterior a este día y hora, no podrán asistir el viernes de esa semana.
 
-Completa el siguiente [Google form](https://forms.gle/8bPuLAmwEcxFt55DA). 
+Completa el siguiente [Google form](https://forms.gle/8bPuLAmwEcxFt55DA). Inscripciones abiertas del 8 de Agosto al 3 de septiembre, cierre 6 pm.
 
 Para cualquier duda o problema mandar un correo con copia a los coordinadores del curso, la Dra. Evelia Coss (ecoss@liigh.unam.mx) y el Dr. Israel Aguilar (iaguilar@inmegen.gob.mx).
 
