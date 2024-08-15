@@ -66,6 +66,15 @@ Clases: viernes de 11:30 am a 1:30 pm (GMT-6)
 - Clase extra: jueves 5 dic - Crea tu CV - Aline (11:30-1:30)
 - Viernes 13. Por confirmarse (6/dic/2024)
 
+### Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos, 27 agosto-26 septiembre 2024
+
+- Fechas: Martes y jueves, del 27 agosto al 26 septiembre 2024 de 6 a 8 pm
+- Clases Online
+- Se grabaran las clases.
+- Github: https://github.com/EveliaCoss/Filogenetic_Workshop2024
+- Instructora: Dra. María Guadalupe Segovia Ramírez.
+- Formulario de inscripcion: [aqui](https://forms.gle/NJaPqsHFWH8bLNax7)
+
 [Calendario UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf)
 
 ## Licencia y términos de uso
