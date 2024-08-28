@@ -43,6 +43,8 @@ Se otorgará un diploma a los participantes que cuenten con el **80 % de las asi
 > ASISTENCIAS: Utilizaremos una extensión de Google Meet para registrar la asistencia. Esta herramienta registrará automáticamente el nombre de usuario de Gmail, la hora de entrada y el tiempo que permanezcan en la llamada. Les pedimos que, antes de la clase, se aseguren de que su nombre de usuario esté actualizado.
 > 
 > Además, les pedimos que, si no tienen la posibilidad de asistir a la clase completa (2 horas), consideren NO ingresar, de manera que puedan ceder su lugar a otra persona que pueda aprovechar la clase en su totalidad (solo hay 100 lugares en la llamada de Google meet). Queremos asegurarnos de que todos los participantes puedan disfrutar de una experiencia completa y enriquecedora de la mano de los instructores. Respeten el espacio y el tiempo que ellos también les proporcionen, por favor.
+> 
+> DIPLOMA: Es importante recordar que si la clase tiene una **duración de 2 horas** y permanecen menos tiempo (por ejemplo, 1h 30 min), esto se considerará una falta. *Al inscribirse en el curso, se comprometieron a asistir y participar en las clases completas para poder recibir un diploma, para lo cual se requiere al menos un 80% de asistencia.*
 
 ## Instructores 👾
 
