@@ -65,7 +65,7 @@ Se otorgará un diploma a los participantes que cuenten con el **80 % de las asi
 - Se grabaran las clases.
 - Github: https://github.com/EveliaCoss/Filogenetic_Workshop2024
 - Instructora: [Dra. María Guadalupe Segovia Ramírez](https://github.com/mariasr13)
-- Formulario de inscripcion: [aqui](https://forms.gle/NJaPqsHFWH8bLNax7)
+- Formulario de inscripcion: [aqui](https://forms.gle/NJaPqsHFWH8bLNax7) -  Registro CERRADO (limitado a 100 personas en Google meet)
 
 ### Clases: viernes de 11:30 am a 1:30 pm (GMT-6)
 
@@ -92,6 +92,14 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 El material de los VieRnes de Bioinformatica se distribuye públicamente a través de este repositorio GitHub bajo la [Licencia No Comercial Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 Creative Commons Licence This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+## Código de conducta
+
+Los participantes han leído y comprendido el [código de conducta de los VieRnes de Bioinformática](https://docs.google.com/document/d/1NBt8-XaVs2QAbHhRdhL3UMoYzlgQ6t0iQCLo2zzX4C8/edit?usp=sharing), aceptando cumplir con las normas y directrices establecidas en el código de conducta. 
+
+## Uso de imagen
+
+Debido a que las clases son grabadas los participantes han autorizado de su aceptación en el registro el uso de su imagen en las mismas, tanto en las las grabaciones y toma de fotografías en las sesiones. De acuerdo al Aviso de Privacidad vigente del Laboratorio Internacional de Investigación sobre el Genoma Humano declarado en el sitio web: https://liigh.unam.mx/avisodeprivacidad/
 
 ## Agradecimientos
 
