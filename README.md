@@ -50,7 +50,16 @@ Se otorgará un diploma a los participantes que cuenten con el **80 % de las asi
 
 ## Contenido 📌
 
-Clases: viernes de 11:30 am a 1:30 pm (GMT-6)
+### Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos, 27 agosto-26 septiembre 2024
+
+- Fechas: Martes y jueves, del 27 agosto al 26 septiembre 2024 de 6 a 8 pm
+- Clases Online
+- Se grabaran las clases.
+- Github: https://github.com/EveliaCoss/Filogenetic_Workshop2024
+- Instructora: [Dra. María Guadalupe Segovia Ramírez](https://github.com/mariasr13)
+- Formulario de inscripcion: [aqui](https://forms.gle/NJaPqsHFWH8bLNax7)
+
+### Clases: viernes de 11:30 am a 1:30 pm (GMT-6)
 
 - Viernes 1. Creación de paquetes en R (6/sep/2024) - Joselyn Chávez
 - Viernes 2. Introducción al paquete data.table en R, parte 1 (13/sep/2024) - Sofia Zorrilla
@@ -68,16 +77,7 @@ Clases: viernes de 11:30 am a 1:30 pm (GMT-6)
 - Clase extra: jueves 5 dic - Crea tu CV - Aline (11:30-1:30)
 - Viernes 13. Por confirmarse (6/dic/2024)
 
-### Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos, 27 agosto-26 septiembre 2024
-
-- Fechas: Martes y jueves, del 27 agosto al 26 septiembre 2024 de 6 a 8 pm
-- Clases Online
-- Se grabaran las clases.
-- Github: https://github.com/EveliaCoss/Filogenetic_Workshop2024
-- Instructora: Dra. María Guadalupe Segovia Ramírez.
-- Formulario de inscripcion: [aqui](https://forms.gle/NJaPqsHFWH8bLNax7)
-
-[Calendario UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf)
+Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf).
 
 ## Licencia y términos de uso
 
