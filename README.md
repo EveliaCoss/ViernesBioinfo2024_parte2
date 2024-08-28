@@ -1,5 +1,7 @@
 # VieRnes de Bioinformática en el LIIGH-UNAM (2024) (parte 2)
 
+> Almacena este curso en tus favoritos, dando click en la estrella 🌟 de la parte superior derecha 😎.
+
 Edición 2024 💜 parte 2
 
 ⭐ Objetivo
