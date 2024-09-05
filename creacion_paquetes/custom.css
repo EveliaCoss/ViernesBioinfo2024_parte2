@@ -1,0 +1,86 @@
+.remark-slide-content {
+  background-image: linear-gradient(to bottom, white 88%, #B85232 99%) ;
+  background-position: center;
+  background-size: 100% 100%, cover ;
+  font-size: 24pt;
+}
+
+.remark-slide-content h1, .remark-slide-content h2, .remark-slide-content h3 {
+  color: #454647;
+  font-weight: bold;
+}
+
+.title-slide {
+  background-image: linear-gradient(to bottom, white 88%, #B85232 99%)  ;
+  background-position: center ;
+  background-size: 100% 100%, cover ;
+}
+
+.title-slide h1 {
+  text-align: center;
+  color: #454647;
+  font-weight: bold;
+}
+
+.title-slide h2 {
+  font-size: 30pt;
+  position: absolute;
+  bottom: 20%;
+  text-align: center;
+}
+
+.title-slide h3 {
+  text-align: center;
+  color: #454647;
+  font-weight: bold;
+}
+
+.chapter-slide {
+  background-image: linear-gradient(to bottom, #B85232 85%, rgba(184, 82, 50) 95%) ;
+  background-position: center;
+  background-size: 100% 100%, cover ;
+}
+
+.chapter-slide h1 {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  text-align: center;
+  color: #e8e8e8 ;
+}
+
+
+
+/* Two-column layout */
+.left-column {
+  width: 20%;
+  float: left;
+  margin-top: -30px;
+}
+
+.right-column {
+  width: 75%;
+  float: right;
+  margin-top: -30px;
+}
+
+.pull-left {
+  float: left;
+  width: 47%;
+  margin-top: -30px;
+}
+.pull-right {
+  float: right;
+  width: 47%;
+  margin-top: -30px;
+}
+
+
+.remark-code, .remark-inline-code {
+    font-size: 19pt;
+}
+
+
+
+
+
