@@ -56,6 +56,9 @@ Se otorgará un diploma a los participantes que cuenten con el **80 % de las asi
 - Dra. Aline Pingarroni - Rladies Morelia, PI
 - MsC. Ana Laura Hernadez - Estudiante de doctorado de Ciencias Biomedicas, LIIGH-UNAM
 
+
+Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
+
 ## Contenido 📌
 
 ### Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos, 27 agosto-26 septiembre 2024
