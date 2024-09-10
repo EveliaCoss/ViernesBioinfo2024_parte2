@@ -90,6 +90,13 @@ Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 
 Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf).
 
+### Viernes 1. Creación de paquetes en R
+
+- Fecha: Viernes 6 de septiembre 2024
+- Instructora: Dra. Joselyn Chávez
+- Presentación: Introducción a R
+- Grabación: [Clase1](https://drive.google.com/file/d/1HtuubU3XlypKqdaM4vYaeB3koB61MQ7R/view?usp=sharing)
+
 ## Licencia y términos de uso
 
 El material de los VieRnes de Bioinformatica se distribuye públicamente a través de este repositorio GitHub bajo la [Licencia No Comercial Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
