@@ -100,7 +100,8 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 ### Viernes 2 y 3. Introducción al paquete data.table en R
 - Fecha: Viernes 13 y 20 de septiembre 2024
 - Instructora: Sofia Zorrilla
-- Github: 
+- [Página del tutorial](https://sofiazorrilla.github.io/data.table_long/)
+- Repositorio Github: [data.table_long](https://github.com/sofiazorrilla/data.table_long) 
 
 ## Licencia y términos de uso
 
