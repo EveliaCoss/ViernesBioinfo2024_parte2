@@ -51,7 +51,7 @@ Se otorgará un diploma a los participantes que cuenten con el **80 % de las asi
 - Dr. Israel Aguilar - Posdoc y Coordinador del curso
 - [Dra. Joselyn Chávez](https://rladiesmx.netlify.app/author/joselyn-chavez/) - Rladies Cuernavaca, Posdoctoral Icahn School of Medicine en Mount Sinai
 - [Dra. Haydeé Peruyero](https://haydeeperuyero.github.io/) - Rladies Morelia, Posdoctoral Centro de Ciencias Matematicas (CCM)
-- [Sofia Zorrilla](https://github.com/sofiazorrilla) - Rladies Morelia, estudiante de maestria
+- [Sofia Zorrilla](https://github.com/sofiazorrilla) - Rladies Morelia, estudiante de maestria PCBIOL en ENES Morelia
 - Maria Jose Palma Martinez - Rladies Morelia, estudiante de doctorado
 - Dra. Aline Pingarroni - Rladies Morelia, PI
 - MsC. Ana Laura Hernadez - Estudiante de doctorado de Ciencias Biomedicas, LIIGH-UNAM
