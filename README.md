@@ -94,7 +94,7 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 
 - Fecha: Viernes 6 de septiembre 2024
 - Instructora: Dra. Joselyn Chávez
-- Presentación: Introducción a R
+- Presentación: [Creación de paquetes en R](https://eveliacoss.github.io/ViernesBioinfo2024_parte2/creacion_paquetes/slides.html)
 - Grabación: [Clase1](https://drive.google.com/file/d/1HtuubU3XlypKqdaM4vYaeB3koB61MQ7R/view?usp=sharing)
 
 ### Viernes 2 y 3. Introducción al paquete data.table en R
