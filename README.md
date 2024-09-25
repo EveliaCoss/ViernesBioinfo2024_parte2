@@ -79,14 +79,14 @@ Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 - Viernes 5. Analisis de variantes genetica con data.table en R, parte 2 (4/oct/2024) - Maria Jose Palma Martinez (9- 11 am)
 - Viernes 6. Git + Github (11/oct/2024) - Israel Aguilar
 - Viernes 7. Git + Github (18/oct/2024) - Israel Aguilar
-- Viernes 8. Programacion defensiva con ggplot, parte 1 (25/oct/2024) - Evelia Coss 
+- Viernes 8. Circus plot en R (25/oct/2024) - Israel Aguilar
 - Viernes Nov 2 - no hay clase
 - Viernes 9. Creación de mapas en R (8/nov/2024) - Ana Laura Hernadez
 - Viernes 10. Programar en R con chatGPT (15/nov/2024) - Israel Aguilar
 - Viernes 11. Creación de paginas web en R, parte 1 (22/nov/2024) - Haydeé Peruyero
 - Viernes 12. Creación de paginas web en R, parte 2 (29/nov/2024) - Haydeé Peruyero
 - Clase extra: jueves 5 dic - Crea tu CV - Aline (11:30-1:30)
-- Viernes 13. Programacion defensiva con ggplot, parte 2 (6/dic/2024) - Evelia Coss
+- Viernes 13. Programacion defensiva con ggplot2 (6/dic/2024) - Evelia Coss
 
 Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf).
 
