@@ -98,12 +98,21 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Grabación: [Clase1](https://drive.google.com/file/d/1HtuubU3XlypKqdaM4vYaeB3koB61MQ7R/view?usp=sharing)
 
 ### Viernes 2 y 3. Introducción al paquete data.table en R
-- Fecha: Viernes 13 y 20 de septiembre 2024
+- Fechas: Viernes 13 y 20 de septiembre 2024
 - Instructora: Sofia Zorrilla
 - [Página del tutorial](https://sofiazorrilla.github.io/data.table_long/)
 - Repositorio Github: [data.table_long](https://github.com/sofiazorrilla/data.table_long)
 - Grabación: [Clase2](https://drive.google.com/file/d/18AjTP08J9RwpdGlxnYlKu-m92oWArCUn/view?usp=sharing)
 - Grabación: [Clase3](https://drive.google.com/file/d/10EeeTUGIVwHXj1x8GffFKjmI4UXr0H-V/view?usp=sharing)
+
+### Viernes 4 y 5. Analisis de variantes genetica con data.table en R
+
+- Fechas: Viernes 27 de septiembre Y 4 de octubre 2024
+- Instructora: Maria Jose Palma Martinez
+- Horario: 9 a 11 am
+- Descargar el siguiente archivo previo a la clase. Da click [aqui](https://drive.google.com/file/d/16za7dS3DcMR_VKFJdszLU2kJUS9bB7Dr/view?usp=share_link)
+- Repositorio Github:
+- Grabación: 
 
 ## Licencia y términos de uso
 
