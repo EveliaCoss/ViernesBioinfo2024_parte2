@@ -113,6 +113,7 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Descargar el siguiente archivo previo a la clase. Da click [aqui](https://drive.google.com/file/d/16za7dS3DcMR_VKFJdszLU2kJUS9bB7Dr/view?usp=share_link)
 - Material: [Libro en Quarto - GWAS](https://mariajpalma.github.io/Genetic_variants_datatable/Graficacion_GWAS.html)
 - Github: [Genetic_variants_datatable](https://github.com/mariajpalma/Genetic_variants_datatable)
+- Reproduccion de la Figura 4 de [Mexican Biobank advances population and medical genomics of diverse ancestries](https://www.nature.com/articles/s41586-023-06560-0#Sec8)
 - Grabación: 
 
 ## Licencia y términos de uso
