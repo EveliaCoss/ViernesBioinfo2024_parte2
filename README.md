@@ -111,7 +111,7 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Instructora: Maria Jose Palma Martinez
 - Horario: 9 a 11 am
 - Descargar el siguiente archivo previo a la clase. Da click [aqui](https://drive.google.com/file/d/16za7dS3DcMR_VKFJdszLU2kJUS9bB7Dr/view?usp=share_link)
-- Repositorio Github:
+- Material: [Libro en Quarto - GWAS](https://mariajpalma.github.io/Genetic_variants_datatable/Graficacion_GWAS.html)
 - Grabación: 
 
 ## Licencia y términos de uso
