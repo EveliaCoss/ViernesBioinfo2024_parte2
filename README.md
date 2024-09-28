@@ -114,7 +114,7 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Material: [Libro en Quarto - GWAS](https://mariajpalma.github.io/Genetic_variants_datatable/Graficacion_GWAS.html)
 - Github: [Genetic_variants_datatable](https://github.com/mariajpalma/Genetic_variants_datatable)
 - Reproduccion de la Figura 4 de [Mexican Biobank advances population and medical genomics of diverse ancestries](https://www.nature.com/articles/s41586-023-06560-0#Sec8)
-- Grabación: [Clase4](https://drive.google.com/file/d/1tzw4K7lxHD_48oMoRpqKrMbUAvVmhNkG/view?usp=sharing)
+- Grabación: [Clase4](https://drive.google.com/file/d/1VLFbp0ebaV3dwgKUatdek6vQuM0mXg5V/view?usp=sharing)
 
 ## Licencia y términos de uso
 
