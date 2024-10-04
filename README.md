@@ -110,12 +110,12 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Fechas: Viernes 27 de septiembre Y 4 de octubre 2024
 - Instructora: Maria Jose Palma Martinez
 - Horario: 9 a 11 am
-- Descargar el siguiente archivo previo a la clase. Da click [aqui](https://drive.google.com/file/d/16za7dS3DcMR_VKFJdszLU2kJUS9bB7Dr/view?usp=share_link)
+- Descargar el siguiente archivo previo a la clase 4. Da click [aqui](https://drive.google.com/file/d/16za7dS3DcMR_VKFJdszLU2kJUS9bB7Dr/view?usp=share_link)
 - Material Clase 4 y 5: [Libro en Quarto - GWAS](https://mariajpalma.github.io/Genetic_variants_datatable/Graficacion_GWAS.html)
 - Github: [Genetic_variants_datatable](https://github.com/mariajpalma/Genetic_variants_datatable)
 - Reproduccion de la Figura 4 de [Mexican Biobank advances population and medical genomics of diverse ancestries](https://www.nature.com/articles/s41586-023-06560-0#Sec8)
 - Grabación: [Clase4](https://drive.google.com/file/d/1VLFbp0ebaV3dwgKUatdek6vQuM0mXg5V/view?usp=sharing)
-- Material Clase 5: Descargar [Genotypes.vcf](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz.tbi)
+- Descargar el siguiente archivo previo a la clase 5. Da click [Genotypes.vcf](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz.tbi)
 
 ## Licencia y términos de uso
 
