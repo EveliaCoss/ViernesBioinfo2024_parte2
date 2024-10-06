@@ -117,6 +117,9 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Grabación: [Clase4](https://drive.google.com/file/d/1VLFbp0ebaV3dwgKUatdek6vQuM0mXg5V/view?usp=sharing)
 - Descargar el siguiente archivo previo a la clase 5. Da click [Genotypes.vcf](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz.tbi)
 - Grabación: [Clase5](https://drive.google.com/file/d/18rAxlTRVo7LBKzL-VwpxikfyvAPrVbUb/view?usp=sharing)
+- Material extra:
+    + Visualizacion de variantes geneticas en [mapa mundial](https://popgen.uchicago.edu/ggv/?data=%221000genomes%22&chr=7&pos=5460748)
+    + [1000genomes](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/)
 
 ## Licencia y términos de uso
 
