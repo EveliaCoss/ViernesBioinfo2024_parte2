@@ -121,6 +121,15 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
     + Visualizacion de variantes geneticas en [mapa mundial](https://popgen.uchicago.edu/ggv/?data=%221000genomes%22&chr=7&pos=5460748)
     + [1000genomes](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/)
 
+### Viernes 6 y 7. Git + Github
+
+- Fechas: Viernes 11 y 18 de octubre 2024
+- Instructora: Dr. Israel Aguilar
+- Horario: 11:30-13:30 pm
+- Manual: [Mini guia uso de Git y Github](https://drive.google.com/file/d/1PyjbZ30Z3FCgZsDV-3jEyySS2tpCFD9G/view?usp=sharing)
+- Grabación:
+
+
 ## Licencia y términos de uso
 
 El material de los VieRnes de Bioinformatica se distribuye públicamente a través de este repositorio GitHub bajo la [Licencia No Comercial Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
