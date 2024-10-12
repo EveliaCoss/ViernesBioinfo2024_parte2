@@ -127,7 +127,7 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Instructora: Dr. Israel Aguilar
 - Horario: 11:30-13:30 pm
 - Manual: [Mini guia uso de Git y Github](https://drive.google.com/file/d/1PyjbZ30Z3FCgZsDV-3jEyySS2tpCFD9G/view?usp=sharing)
-- Grabación:
+- Grabación: [Clase6](https://drive.google.com/file/d/1GSFtbEQ5r6IT63vk1hEVFCGuh7jvyaZx/view?usp=sharing)
 
 
 ## Licencia y términos de uso
