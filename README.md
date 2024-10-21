@@ -124,10 +124,18 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 ### Viernes 6 y 7. Git + Github
 
 - Fechas: Viernes 11 y 18 de octubre 2024
-- Instructora: Dr. Israel Aguilar
+- Instructor: Dr. Israel Aguilar
 - Horario: 11:30-13:30 pm
 - Manual: [Mini guia uso de Git y Github](https://drive.google.com/file/d/1PyjbZ30Z3FCgZsDV-3jEyySS2tpCFD9G/view?usp=sharing)
 - Grabación: [Clase6](https://drive.google.com/file/d/1GSFtbEQ5r6IT63vk1hEVFCGuh7jvyaZx/view?usp=sharing)
+- Grabación: [Clase7](https://drive.google.com/file/d/1JrN2EbJH8OlQncdEMpKkjOdIXP_-HNW4/view?usp=sharing)
+
+### Viernes 8. Circus plot en R 
+
+- Fechas: Viernes 25 octubre 2024
+- Instructor: Dr. Israel Aguilar
+- Horario: 11:30-13:30 pm
+- Manual: [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/)
 
 
 ## Licencia y términos de uso
