@@ -135,6 +135,12 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Horario: 11:30-13:30 pm
 - Manual: [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/)
 
+### Viernes 9. Programacion defensiva con ggplot2
+
+- Fechas: Viernes 1 noviembre 2024
+- Instructora: Dr. Evelia Coss
+- Horario: 11:30-13:30 pm
+- Manual: [Defensiva_ggplot2024](https://eveliacoss.github.io/Defensiva_ggplot2024/)
 
 ## Licencia y términos de uso
 
