@@ -135,6 +135,7 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Horario: 11:30-13:30 pm
 - Manual: [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/)
 - Script: [peak-circos.R](https://github.com/EveliaCoss/ViernesBioinfo2024_parte2/blob/main/peak-circos.R)
+- Grabación: [Clase8](https://drive.google.com/file/d/1hm_KRnKanoKXrKAJZ0H8qx2p-TVK9OT6/view?usp=sharing)
 
 ### Viernes 9. Programacion defensiva con ggplot2
 
