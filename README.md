@@ -143,6 +143,8 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Instructora: Dr. Evelia Coss
 - Horario: 11:30-13:30 pm
 - Manual: [Defensiva_ggplot2024](https://eveliacoss.github.io/Defensiva_ggplot2024/)
+- Grabación: [Clase9](https://drive.google.com/file/d/1LyO96Wv5eUBC-NMXUVGQ9y2DiXXN_SuT/view?usp=sharing)
+- Proyecto final: [Instrucciones](https://eveliacoss.github.io/Defensiva_ggplot2024/Parte5.html), Entrega de reporte 5 de diciembre y presentacion de 15 min por equipo el 6 de diciembre.
 
 ## Licencia y términos de uso
 
