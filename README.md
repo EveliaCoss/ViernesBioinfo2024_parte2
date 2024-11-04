@@ -79,7 +79,7 @@ Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 - Viernes 7. Git + Github (18/oct/2024) - Israel Aguilar
 - Viernes 8. Circus plot en R (25/oct/2024) - Israel Aguilar
 - Viernes 9. Programacion defensiva con ggplot2, parte 1 (1/nov/2024) - Evelia Coss
-- Viernes 10.  (8/nov/2024) -
+- Viernes 10. (8/nov/2024) - NO HAY CLASES
 - Viernes 11. Programar en R con chatGPT (15/nov/2024) - Israel Aguilar
 - Viernes 12. Creación de paginas web en R, parte 1 (22/nov/2024) - Haydeé Peruyero
 - Viernes 13. Creación de paginas web en R, parte 2 (29/nov/2024) - Haydeé Peruyero
