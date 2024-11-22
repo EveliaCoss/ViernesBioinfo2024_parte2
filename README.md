@@ -146,6 +146,20 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Grabación: [Clase9](https://drive.google.com/file/d/1LyO96Wv5eUBC-NMXUVGQ9y2DiXXN_SuT/view?usp=sharing)
 - Proyecto final: [Instrucciones](https://eveliacoss.github.io/Defensiva_ggplot2024/Parte5.html), Entrega de reporte 5 de diciembre y presentacion de 15 min por equipo el 6 de diciembre.
 
+### Viernes 11. Programar en R con chatGPT
+
+- Fechas: Viernes 15 noviembre 2024
+- Instructor: Dr. Israel Aguilar
+- Horario: 11:30-13:30 pm
+ 
+### Viernes 12. Creación de paginas web en R, parte 1 
+
+- Fechas: Viernes 22 y 29 noviembre 2024
+- Instructora: Dra. Haydeé Peruyero
+- Horario: 11:30-13:30 pm (22 noviembre 2024) y 10:30 a 12:30 (29 noviembre 2024) 
+- Manual: [Creacion pagina web](https://haydeeperuyero.github.io/others/viernesbio/)
+- 
+
 ## Licencia y términos de uso
 
 El material de los VieRnes de Bioinformatica se distribuye públicamente a través de este repositorio GitHub bajo la [Licencia No Comercial Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
