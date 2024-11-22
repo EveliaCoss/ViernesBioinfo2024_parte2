@@ -157,7 +157,7 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Fechas: Viernes 22 y 29 noviembre 2024
 - Instructora: Dra. Haydeé Peruyero
 - Horario: 11:30-13:30 pm (22 noviembre 2024) y 10:30 a 12:30 (29 noviembre 2024) 
-- Manual: [Creacion pagina web](https://haydeeperuyero.github.io/others/viernesbio/)
+- Manual: [Creacion pagina web](https://r-ladies-morelia.github.io/learn/webpage/)
 - 
 
 ## Licencia y términos de uso
