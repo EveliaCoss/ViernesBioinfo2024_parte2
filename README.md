@@ -79,12 +79,12 @@ Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 - Viernes 7. Git + Github (18/oct/2024) - Israel Aguilar
 - Viernes 8. Circus plot en R (25/oct/2024) - Israel Aguilar
 - Viernes 9. Programacion defensiva con ggplot2, parte 1 (1/nov/2024) - Evelia Coss
-- Viernes 10. (8/nov/2024) - NO HAY CLASES
-- Viernes 11. Programar en R con chatGPT (15/nov/2024) - Israel Aguilar
-- Viernes 12. Creación de paginas web en R, parte 1 (22/nov/2024) - Haydeé Peruyero
-- Viernes 13. Creación de paginas web en R, parte 2 (29/nov/2024) - Haydeé Peruyero
+- Viernes. (8/nov/2024) - NO HAY CLASES
+- Viernes 10. Programar en R con chatGPT (15/nov/2024) - Israel Aguilar
+- Viernes 11. Creación de paginas web en R, parte 1 (22/nov/2024) - Haydeé Peruyero
+- Viernes 12. Creación de paginas web en R, parte 2 (29/nov/2024) - Haydeé Peruyero
 - Clase extra: jueves 5 dic - Crea tu CV - Aline (11:30-1:30)
-- Viernes 14. Programacion defensiva con ggplot2, parte 2 (6/dic/2024) - Evelia Coss
+- Viernes 13. Programacion defensiva con ggplot2, parte 2 (6/dic/2024) - Evelia Coss
 
 Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf).
 
@@ -146,19 +146,26 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Grabación: [Clase9](https://drive.google.com/file/d/1LyO96Wv5eUBC-NMXUVGQ9y2DiXXN_SuT/view?usp=sharing)
 - Proyecto final: [Instrucciones](https://eveliacoss.github.io/Defensiva_ggplot2024/Parte5.html), Entrega de reporte 5 de diciembre y presentacion de 15 min por equipo el 6 de diciembre.
 
-### Viernes 11. Programar en R con chatGPT
+### Viernes 10. Programar en R con chatGPT
 
 - Fechas: Viernes 15 noviembre 2024
 - Instructor: Dr. Israel Aguilar
 - Horario: 11:30-13:30 pm
  
-### Viernes 12. Creación de paginas web en R, parte 1 
+### Viernes 11 y 12. Creación de paginas web en R, parte 1 
 
 - Fechas: Viernes 22 y 29 noviembre 2024
 - Instructora: Dra. Haydeé Peruyero
 - Horario: 11:30-13:30 pm (22 noviembre 2024) y 10:30 a 12:30 (29 noviembre 2024) 
 - Manual: [Creacion pagina web](https://r-ladies-morelia.github.io/learn/webpage/)
-- 
+- Grabación: [Clase11](https://drive.google.com/file/d/13UIIC7bTHDT64oO9EEurmJy22UFbUr1P/view?usp=sharing)
+- Grabación: Clase 12
+
+### Viernes 13. Programacion defensiva con ggplot2, parte 2 
+
+- Fechas: Viernes 6 diciembre 2024 (final)
+- Instructora: Dra. Evelia Coss
+- Presentacion de exposiciones de proyectos: [Instrucciones](https://eveliacoss.github.io/Defensiva_ggplot2024/Parte5.html)
 
 ## Licencia y términos de uso
 
