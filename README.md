@@ -160,7 +160,7 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Manual: [Creacion pagina web](https://r-ladies-morelia.github.io/learn/webpage/)
 - Grabación: [Clase11](https://drive.google.com/file/d/13UIIC7bTHDT64oO9EEurmJy22UFbUr1P/view?usp=sharing)
 - Material: [Pagina1](https://haydeeperuyero.github.io/others/webpage/) y [Pagina2](https://haydeeperuyero.github.io/others/viernesbio/)
-- Grabación: Clase 12
+- Grabación: [Clase 12](https://drive.google.com/file/d/1KS3b1eK1SgeoC44hmq5O05QdPPY5hjVY/view?usp=sharing)
 
 ### Viernes 13. Programacion defensiva con ggplot2, parte 2 
 
