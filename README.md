@@ -84,7 +84,7 @@ Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 - Viernes 10. Programar en R con chatGPT (15/nov/2024) - Israel Aguilar
 - Viernes 11. Creación de paginas web en R, parte 1 (22/nov/2024) - Haydeé Peruyero
 - Viernes 12. Creación de paginas web en R, parte 2 (29/nov/2024) - Haydeé Peruyero
-- Clase extra: jueves 5 dic - Crea tu CV - Aline (11:30-1:30)
+- Clase extra: jueves 5 dic - Crea tu CV - Aline (11:30-1:30) - [Github](https://github.com/AlinePingarroni/Tu_CV_en_R)
 - Viernes 13. Programacion defensiva con ggplot2, parte 2 (6/dic/2024) - Evelia Coss
 
 Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam.mx/actividades/calendarios/2025-semestral.pdf).
