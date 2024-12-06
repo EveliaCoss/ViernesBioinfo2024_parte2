@@ -170,8 +170,8 @@ Este calendario se base en el [Calendario de la UNAM](https://www.dgae-siae.unam
 - Presentacion de exposiciones de proyectos: [Instrucciones](https://eveliacoss.github.io/Defensiva_ggplot2024/Parte5.html)
 - Proyectos finales:
   + Julieth Lopez - [Proyecto en Quarto](https://juliethlopez.github.io/Proyecto_ViernesBioinformatica_2024/), datos Grandes ligas de Beisbol. 
-  + Erick Arroyo y Adriana Chacon - [Proyecto](https://github.com/Capnemo1/ProyectoVDB)
-  + Erika Cruz y Amairani Cancino - [Proyecto](https://github.com/ErikaCruzB/UrbanSquirrels) 
+  + Erick Arroyo y Adriana Chacon - [Proyecto](https://github.com/Capnemo1/ProyectoVDB), datos de starwars
+  + Erika Cruz y Amairani Cancino - [Proyecto](https://github.com/ErikaCruzB/UrbanSquirrels), datos de ardillas 
 
 ## Licencia y términos de uso
 
